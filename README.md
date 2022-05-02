@@ -9,4 +9,8 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
 
 <img src="./STD-GAE.png" alt="Logo"/>
 
+### Organization of the code
+
+All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *ginn/MIDA.ipynb*, and *ginn/LRTC-TNN.ipynb*. Examples of use with accompanying notebooks are in *examples*.
+
 
