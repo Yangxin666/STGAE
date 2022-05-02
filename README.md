@@ -11,6 +11,6 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
 
 ### Organization of the code
 
-All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. Examples of use with accompanying notebooks are in *examples*.
+All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. Two datasets needed to run the code *data/location.csv* and *data/norm_power.csv*.
 
 
