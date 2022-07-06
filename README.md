@@ -11,6 +11,6 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
 
 ### Organization of the code
 
-All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. We provide a publuic PV power dataset for users to validate our proposed framework. The public dataset consists of two parts the location file: *data/W_35.csv* and the timeseries data file *data/norm_power_35.csv*.
+All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. We provide a publuic PV power dataset for users to validate our proposed imputation framework. The public dataset consists of two parts the location file: *data/W_35.csv* and the timeseries data file *data/norm_power_35.csv*.
 
 
