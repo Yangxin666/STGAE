@@ -11,14 +11,28 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
   
 **Fig. 1: Overview of STD-GAE Imputation Framework.**
 
+<p align="center"><img src="figures/STGCN_DAE.png"></p>
+  
+**Fig. 2: Structure of the Spatial Layers and Temporal Layers in the Proposed STD-GAE.**
+
 ## Organization of the code
 
 All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. We provide a publuic PV power dataset for users to validate our proposed imputation framework. The public dataset (sampled from: https://datahub.duramat.org/dataset/phoenix.) consists of two parts the location file: *data/W_35.csv* and the timeseries data file *data/norm_power_35.csv*. 
 
 ## Results  
-<p align="center"><img src="figures/Imputation_accuracy.png"></p>
+We have evaluated our proposed model on two real-world PV datasets. Experimental results show that STD-GAE achieves a gain of 43.14% in imputation accuracy and remains less sensitive to missing rate, different seasons, and missing scenarios,
+compared with state-of-the-art data imputation methods such as
+MIDA and LRTC-TNN. 
   
-**Fig. 2: Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
+<p align="center"><img src="figures/Imputation_accuracy.png"></p>
+
+**Fig. 3: Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
+
+<p align="center"><img src="figures/Example_Two_Cases.png"></p>
+  
+**Fig. 4: Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
+
+
 
 
 
