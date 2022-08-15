@@ -11,7 +11,7 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
   
 **Fig. 1: Overview of STD-GAE Imputation Framework.**
 
-<p align="center"><img src="figures/STGCN_DAE.png" width="50%" height="50%"></p>
+<p align="center"><img src="figures/STGCN_DAE.png" width="75%" height="75%"></p>
   
 **Fig. 2: Structure of the Spatial Layers and Temporal Layers in the Proposed STD-GAE.**
 
@@ -30,7 +30,7 @@ MIDA and LRTC-TNN.
 
 <p align="center"><img src="figures/Example_Two_Cases.png"></p>
   
-**Fig. 4: Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
+**Fig. 4: Imputation Results of the Proposed STD-GAE (left: 40% MCAR, right: 6-hours BM).**
 
 
 
