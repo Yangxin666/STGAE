@@ -9,8 +9,17 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
 
 ![STD-GAE](https://user-images.githubusercontent.com/47265586/178044941-e6050b98-80fd-4982-ab36-f9cca49ad332.png)
 
-### Organization of the code
+## Organization of the code
 
 All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. We provide a publuic PV power dataset for users to validate our proposed imputation framework. The public dataset (sampled from: https://datahub.duramat.org/dataset/phoenix.) consists of two parts the location file: *data/W_35.csv* and the timeseries data file *data/norm_power_35.csv*. 
+
+## Results  
+<p align="center"><img src="figures/PeMS_R39.png" width="40%" height="30%"><img src="figures/PeMS_R141.png" width="40%" height="30%"></p>
+  
+**Fig. 2: Speed prediction in the morning peak and evening rush hours of the dataset PeMSD7.**
+
+<p align="center"><img src="figures/PeMS_R39.png" width="40%" height="30%"><img src="figures/PeMS_R141.png" width="40%" height="30%"></p>
+  
+**Fig. 3: Speed prediction in the morning peak and evening rush hours of the dataset PeMSD7.**
 
 
