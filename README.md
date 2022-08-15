@@ -18,7 +18,7 @@ All the code for the models described in the paper can be found in *scripts/STD-
 ## Results  
 <p align="center"><img src="figures/Imputation_Accuracy.png"></p>
   
-**Fig. 2: : Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
+**Fig. 2: Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
 
 
 
