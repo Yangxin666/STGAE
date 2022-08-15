@@ -11,7 +11,7 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
   
 **Fig. 1: Overview of STD-GAE Imputation Framework.**
 
-<p align="center"><img src="figures/STGCN_DAE.png"></p>
+<p align="center"><img src="figures/STGCN_DAE.png" width="50%" height="50%"></p>
   
 **Fig. 2: Structure of the Spatial Layers and Temporal Layers in the Proposed STD-GAE.**
 
