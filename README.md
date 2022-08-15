@@ -33,7 +33,7 @@ MIDA and LRTC-TNN.
 **Fig. 4: Imputation Results of the Proposed STD-GAE (left: 40% MCAR, right: 6-hours BM).**
 
 ## Prerequisites
-Our code is based on Python3 (>= 3.6). There are a few dependencies to run the code. The major libraries are listed as follows:
+Our code is based on Python3 (>= 3.8). The major libraries are listed as follows:
 * NumPy (>= 1.22.3)
 * Pandas (>= 1.4.2)
 * Torch (>= 1.10.0)
