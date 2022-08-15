@@ -16,7 +16,7 @@ Our paper introduces __STD-GAE__, a method and an architecture that exploits tem
 All the code for the models described in the paper can be found in *scripts/STD-GAE.ipynb*, *scripts/MIDA.ipynb*, and *scripts/LRTC-TNN.ipynb*. We provide a publuic PV power dataset for users to validate our proposed imputation framework. The public dataset (sampled from: https://datahub.duramat.org/dataset/phoenix.) consists of two parts the location file: *data/W_35.csv* and the timeseries data file *data/norm_power_35.csv*. 
 
 ## Results  
-<p align="center"><img src="figures/Imputation_Accuracy.png"></p>
+<p align="center"><img src="figures/Imputation_accuracy.png"></p>
   
 **Fig. 2: Imputation Errors and Impact of Missing Scenarios and Severity (results of Mean Imputation are out of scale).**
 
