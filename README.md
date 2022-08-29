@@ -1,6 +1,6 @@
 # Spatio-Temporal Denoising Graph Autoencoder (STD-GAE) #
 
-This repository contains the code for the reproducibility of the experiments presented in the paper "Spatio-Temporal Denoising Graph Autoencoders with Data Augmentation for Photovoltaics (PV) Data Imputation" (accepted by SIGMOD 2023). In this paper, we propose a novel Spatio-Temporal Denoising Graph Autoencoder (STD-GAE) framework for PV timeseries data imputation and achieve state-of-the-art results on real-world PV benchmarks.
+This repository contains the code for the reproducibility of the experiments presented in the paper "Spatio-Temporal Denoising Graph Autoencoders with Data Augmentation for Photovoltaics Timeseries Data Imputation" (accepted by SIGMOD 2023). In this paper, we propose a novel Spatio-Temporal Denoising Graph Autoencoder (STD-GAE) framework for PV timeseries data imputation and achieve state-of-the-art results on real-world PV benchmarks.
 
 
 <h2 align=Left>STD-GAE in a nutshell</h2>
